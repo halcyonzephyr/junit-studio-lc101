@@ -27,4 +27,9 @@ public class BonusBinarySearch {
         return -1;
     }
 
+    public static void main(String[] args) {
+
+        binarySearch([20, 5, 7, 3, 2, 1], 1);
+    }
+
 }
